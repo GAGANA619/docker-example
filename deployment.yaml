@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: html-demo
-        image: YOUR_DOCKERHUB_USERNAME/html-demo:latest
+        image: gagana6969/html-demo:latest
         ports:
         - containerPort: 80
 
